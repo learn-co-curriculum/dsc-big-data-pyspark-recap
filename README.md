@@ -3,12 +3,13 @@
 
 ## Introduction
 
-This short lesson summarizes key takeaways from section 38
+In this section, you learned about the challenges of working with big data and the need for distributed computing languages like Apache Spark.
 
 ## Objectives
 You will be able to:
-* Understand and explain what was covered in this section
-* Understand and explain why this section will help you become a data scientist
+
+* Describe the key components of Spark and the Big Data ecosystem
+* Perform analyses using Spark
 
 ## Key Takeaways
 
