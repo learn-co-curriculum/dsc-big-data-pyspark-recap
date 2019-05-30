@@ -23,4 +23,5 @@ The key takeaways from this section include:
 * When you start working with PySpark, you have to create a `SparkContext()`.
 * The creation or RDDs is essential when working with PySpark
 * Examples of actions and transformations include `collect()`, `count()`, `filter()`, `first()`, `take()`, and `reduce()`.
+* Machine Learning on the scale of big data can be done with Spark using the `ml` library
 
